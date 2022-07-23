@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rioba Ian.</h1>
-<h3 align="center">I am a software developer from Kenya</h3>
+<h3 align="center">I am a software developer</h3>
 
 - 🔭 I’m currently working on [Tradity Quants](https://tradity-quants.web.app/)
 
