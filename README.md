@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rioba Ian.</h1>
 <h3 align="center">I am a software developer</h3>
 
-- 🔭 I’m currently doing challenges on [DevChallenges](https://rioba-ian.github.io/portfolio_website/)
+- 🔭 I’m currently doing challenges on [DevChallenges](https://devchallenges.io/portfolio/Rioba-Ian)
 
 - 🌱 I’m currently learning **NextJs**
 
