@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rioba Ian.</h1>
 <h3 align="center">I am a software developer</h3>
 
-- 🔭 I’m currently doing Frontend Development challenges on [DevChallenges](https://devchallenges.io/portfolio/Rioba-Ian) and [Frontend Mentor](https://www.frontendmentor.io/profile/Rioba-Ian)
+- 🔭 I’m am a Frontend developer with React and NextJS. 
 
-- 🌱 I’m currently learning **NextJs**
+- 🚀 I'm currenty improving [my portfolio site](https://ian-rioba-portfolio.netlify.app/).  
 
-- 🚀 I'm currenty building [my portfolio site](https://ian-rioba-portfolio.netlify.app/) which also has a blog site using NextJS.  
-
-- 💬 Ask me about **React, Sass, Django and NodeJs** or any frontend development technologies. 
+- 💬 Ask me about Javascript, Typescript and Python Topics. 
 
 - 📫 How to reach me **📩riobafelix@gmail.com** or [my portfolio site](https://ian-rioba-portfolio.netlify.app/).
-
-- 😍 I love to hike a lot and try out new Food recipes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
