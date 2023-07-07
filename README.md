@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rioba Ian.</h1>
 <h3 align="center">I am a software developer</h3>
 
-- 🔭 I’m am a Frontend developer with React and NextJS. 
-
-- 🚀 I'm currenty improving [my portfolio site](https://ian-rioba-portfolio.netlify.app/).  
+- 🔭 I’m am a Frontend developer with React and NextJS.  
 
 - 💬 Ask me about Javascript, Typescript and Python Topics. 
 
-- 📫 How to reach me **📩riobafelix@gmail.com** or [my portfolio site](https://ian-rioba-portfolio.netlify.app/).
+- 📫 How to reach me **📩riobafelix@gmail.com** or [my portfolio site](https://riobaian.dev).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
