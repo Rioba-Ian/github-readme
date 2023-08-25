@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rioba Ian.</h1>
-<h3 align="center">I am a software developer</h3>
 
-- 🔭 I’m am a Frontend developer with React and NextJS.  
+- 🔭 I’m am a software developer .  
 
-- 💬 Ask me about Javascript, Typescript and Python Topics. 
+- 💬 Ask me about Javascript, Typescript, and Python Topics. 
 
 - 📫 How to reach me **📩riobafelix@gmail.com** or [my portfolio site](https://riobaian.dev).
 
@@ -14,4 +13,3 @@
 <a href="https://www.frontendmentor.io/profile/Rioba-Ian" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/83502526?v=4" alt="rioba-ian" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://github.com/Rioba-Ian/Rioba-Ian/blob/output/github-contribution-grid-snake.svg)
