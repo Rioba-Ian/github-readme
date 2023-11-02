@@ -1,15 +1,43 @@
-<h1 align="center">Hi 👋, I'm Rioba Ian.</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🔭 I’m am a software developer .  
+###
 
-- 💬 Ask me about Javascript, Typescript, and Python Topics. 
+<p align="left">I am Rioba Ian and I'm a software developer from Nairobi, Kenya.</p>
 
-- 📫 How to reach me **📩riobafelix@gmail.com** or [my portfolio site](https://riobaian.dev).
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rioba_riri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rioba_riri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rioba-ian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rioba-ian" height="30" width="40" /></a>
-<a href="https://www.frontendmentor.io/profile/Rioba-Ian" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/83502526?v=4" alt="rioba-ian" height="30" width="40" /></a>
-</p>
+<h2 align="left">About me</h2>
 
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Golang and Rust<br>🎯 Goals: Build cool things</p>
+
+###
+
+<h2 align="left">I build stuff with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/RiobaIan/RiobaIan/output/snake.svg" alt="Snake animation" />
+
+###
