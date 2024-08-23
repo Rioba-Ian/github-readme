@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Rioba Ian and I'm a software developer from Nairobi, Kenya.</p>
+<p align="left">I am Rioba Ian, a software developer from Nairobi, Kenya. Welcome to this space ...</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Golang and Rust<br>🎯 Goals: Build cool things</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Golang<br>🎯 Goals: Build user friendly applications accessible to everyone</p>
 
 ###
 
@@ -20,6 +20,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" alt="Golang logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
