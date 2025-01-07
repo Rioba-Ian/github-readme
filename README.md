@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Golang<br>🎯 Goals: Build user friendly applications accessible to everyone</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust and Blockchain.<br>🎯 Goals: Build reliable and user friendly software</p>
 
 ###
 
